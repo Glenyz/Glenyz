@@ -8,6 +8,9 @@ I'm a passionate developer with experience in OOP Programming, firmware design, 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Verilog](https://img.shields.io/badge/Verilog-017D00?style=for-the-badge&logo=verilog&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+
 
 ## 📈 LeetCode Stats:
 ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Glenyz?bgColor=fff)
