@@ -1,4 +1,4 @@
-# Welcome to Glenyz's GitHub Profile! 👋
+
 # Hi there, I'm Glen Zhu 👋
 
 I'm a passionate developer with experience in OOP Programming, firmware design, and general software skills. I love working on innovative projects and solving challenging problems.
@@ -10,7 +10,7 @@ I'm a passionate developer with experience in OOP Programming, firmware design, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📈 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Glenyz)
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Glen Zhu)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glenyz&show_icons=true&theme=radical)
