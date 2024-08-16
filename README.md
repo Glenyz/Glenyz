@@ -1,10 +1,19 @@
 # Welcome to Glenyz's GitHub Profile! 👋
-Hey there! I'm Glenyz, a passionate individual diving into the world of programming and currently pursuing my journey in computer engineering at UBC. 🚀
+# Hi there, I'm Glen Zhu 👋
 
-About Me
-- 👀 I’m fascinated by the endless possibilities of programming.
-- 🌱 I’m currently immersed in the world of computer engineering, honing my skills and expanding my knowledge.
-- 💞️ I’m open to collaborations on various technical projects. Let's create something amazing together!
+I'm a passionate developer with experience in OOP Programming, firmware design, and general software skills. I love working on innovative projects and solving challenging problems.
+
+## 🛠 Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📈 LeetCode Stats:
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Glenyz)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glenyz&show_icons=true&theme=radical)
 
 ## Get in Touch 📫
 Feel free to reach out to me via email at: glen.zhu@outlook.com
