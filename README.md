@@ -10,11 +10,11 @@ I'm a passionate developer with experience in OOP Programming, firmware design, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📈 LeetCode Stats:
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=Glenyz)
+![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=Glenyz)
 
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glenyz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glenyz&show_icons=true&theme=light)
 
 ## Get in Touch 📫
 Feel free to reach out to me via email at: glen.zhu@outlook.com
