@@ -10,7 +10,8 @@ I'm a passionate developer with experience in OOP Programming, firmware design, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📈 LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Glen Zhu)
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=Glenyz)
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glenyz&show_icons=true&theme=radical)
